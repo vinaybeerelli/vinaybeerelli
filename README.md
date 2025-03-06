@@ -45,7 +45,7 @@ I’m embarking on an exciting journey to create **Dhruva**, a comprehensive dig
 ---
 
 ## Get in Touch
-- **LinkedIn**: [[Connect with me here]](https://www.linkedin.com/in/vinaydatacloud/)(#) 
+- **LinkedIn**: [[vinaydatacloud]](https://www.linkedin.com/in/vinaydatacloud/)(#) 
 - **Email**: vbeerelli17500@ucumberlands.edu
   
 I’m always open to discussing new ideas, collaboration, or just chatting about tech. Feel free to reach out!
