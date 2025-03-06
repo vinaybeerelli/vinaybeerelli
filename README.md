@@ -38,14 +38,14 @@ I’m embarking on an exciting journey to create **Dhruva**, a comprehensive dig
 2. **Phase 2: Core Features**  
    Implement goals, daily planner, weekly reviews, and notifications.
 3. **Phase 3: Smart Add-ons**  
-   Integrate AI-based insights, watch app, advanced analytics.
+   Integrate AI-based insights, watch app and advanced analytics.
 4. **Phase 4: Testing & Polishing**  
    Comprehensive QA, bug fixes, and final refinements before Beta release.
 
 ---
 
 ## Get in Touch
-- **LinkedIn**: [Connect with me here](#) 
+- **LinkedIn**: [[Connect with me here]](https://www.linkedin.com/in/vinaydatacloud/)(#) 
 - **Email**: vbeerelli17500@ucumberlands.edu
   
 I’m always open to discussing new ideas, collaboration, or just chatting about tech. Feel free to reach out!
